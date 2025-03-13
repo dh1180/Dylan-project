@@ -11,9 +11,7 @@
 
 **Dylan Project**는 멋쟁이사자처럼에서 진행하는 웹 개발 기초 학습 프로젝트입니다. 포트폴리오 웹사이트 제작을 통해 웹 개발의 기초를 배우고 실전 경험을 쌓는 것을 목표로 합니다.
 
-<p align="center">
-  <img src="./preview.png" alt="Dylan Project Preview" width="600">
-</p>
+  ![galaxy-night-landscape](https://github.com/user-attachments/assets/45f57334-ab03-42a3-bfb5-f85c52eb5ba0)
 
 ## ✨ 주요 기능
 
